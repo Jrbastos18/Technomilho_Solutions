@@ -1,4 +1,4 @@
-<h1>TECHNOMILHO SOLUTION - PROJETO DA DISCIPLINA DE BANCO DE DADOS [EM PROGRESSO]</h1>
+<h1>TECHNOMILHO SOLUTIONS - PROJETO DA DISCIPLINA DE BANCO DE DADOS [EM PROGRESSO]</h1>
 
 <h2>Sobre o projeto</h2>
 <p>O projeto foi elaborado na disciplina de Banco de Dados do curso de Análise e Desenvolvimento de Sistemas pela UMC.</p>
