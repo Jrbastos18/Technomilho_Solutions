@@ -9,6 +9,14 @@
 <ol>
   <li><a href="#Conceitual">Diagrama Entidade-Relacionamento (Conceitual)</a></li>
   <li><a href="#Logico">Diagrama Entidade-Relacionamento (Lógico)</a></li>
+  <li><a href="#Dicionario">Dicionário de Dados</a></li>
+  <li><a href="#Fisico">Modelo Físico - Código SQL (MySQL)</a></li>
+  <li><a href="#Design">Design das Páginas:</a></li>
+    <ul>
+      <li><a href="#Index">Página Index</a></li>
+      <li><a href="#LoginFunc">Página de Login do Funcionario</a></li>
+      <li><a href="#LoginCliente">Página de Login do Cliente</a></li>
+    </ul>
 </ol>
 
 <h2>Diagrama Entidade-Relacionamento (Conceitual)</h2>
@@ -20,16 +28,26 @@
 <img src="https://github.com/Jrbastos18/Technomilho_Solutions/blob/main/img/ModeloLogico03.png" alt="DER - Diagrama de Entidade-Relacionamento Lógico">
 
 <h2>Dicionário de Dados</h2>
+<a name="Dicionario"></a>
+<p>*Como o dicionário de dados é extenso, irei colocar o link que direciona para o arquivo .PDF dele.</p>
+<a href="https://github.com/Jrbastos18/Technomilho_Solutions/blob/main/doc/DicionarioTechnomilho.pdf">Dicionário de Dados</a>
+
+<h2>Modelo Físico - Código SQL (MySQL)</h2>
+<a name="Fisico"></a>
 
 <h2>Design das Páginas</h2>
+<a name="Design"></a>
 <ul>
-    <li>Página Index</li><br>
+    <li><h3>Página Index</h3></li><br>
+    <a name="Index"></a>
     <img src="https://github.com/Jrbastos18/Technomilho_Solutions/blob/main/img/Index.png" alt="Modelo da página web Index">
     <br><br>
-    <li>Página de Login do Funcionario</li><br>
+    <li><h3>Página de Login do Funcionario</h3></li><br>
+    <a name="LoginFunc"></a>
     <img src="https://github.com/Jrbastos18/Technomilho_Solutions/blob/main/img/Login-Funcionario.png" alt="Modelo da página de login do funcionário">
     <br><br>
-    <li>Página de Login do Cliente</li><br>
+    <li><h3>Página de Login do Cliente</h3></li><br>
+    <a name="LoginCliente"></a>
     <img src="https://github.com/Jrbastos18/Technomilho_Solutions/blob/main/img/Login-Cliente.png" alt="Modelo da página de login do cliente">
     <br><br>
     
