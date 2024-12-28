@@ -34,6 +34,15 @@
 
 <h2>Modelo Físico - Código SQL (MySQL)</h2>
 <a name="Fisico"></a>
+<p>*Como o código está muito extenso, irei separar pelas divisões SQL, com alguns exemplos e um link direcionando para o código completo.</p>
+<ul>
+  <li><h3>DDL - Data Definition Language</h3></li>
+  <li><h3>DML - Data Manipulation Language</h3></li>
+  <li><h3>DQL - Data Query Language</h3></li>
+  <li><h3>DTL - Data Transaction Language</h3></li>
+</ul>
+
+
 
 <h2>Design das Páginas</h2>
 <a name="Design"></a>
