@@ -16,6 +16,7 @@
       <li><a href="#Index">Página Index</a></li>
       <li><a href="#LoginFunc">Página de Login do Funcionario</a></li>
       <li><a href="#LoginCliente">Página de Login do Cliente</a></li>
+      <li><a href="#FormularioCliente">Página de Formulário de Cadastro do Cliente</a></li>
     </ul>
 </ol>
 
@@ -59,5 +60,8 @@
     <a name="LoginCliente"></a>
     <img src="https://github.com/Jrbastos18/Technomilho_Solutions/blob/main/img/Login-Cliente.png" alt="Modelo da página de login do cliente">
     <br><br>
+    <li><h3>Página de Formulário de Cadastro do Cliente</h3></li>
+    <a name="FormularioCliente"></a>
+    <img src="https://github.com/Jrbastos18/Technomilho_Solutions/blob/main/img/Formul%C3%A1rio%20de%20Cadastro%20do%20Cliente.png?raw=true" alt="Modelo da página de formulário de cadastro do cliente">
     
 </ul>
