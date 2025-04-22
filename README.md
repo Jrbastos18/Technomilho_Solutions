@@ -14,6 +14,7 @@
   <li><a href="#Design">Design das Páginas:</a></li>
     <ul>
       <li><a href="#Index">Página Index</a></li>
+      <li><a href="#SobreNos">Página Sobre Nós</a></li>
       <li><a href="#LoginFunc">Página de Login do Funcionario</a></li>
       <li><a href="#LoginCliente">Página de Login do Cliente</a></li>
       <li><a href="#FormularioCliente">Página de Formulário de Cadastro do Cliente</a></li>
@@ -52,6 +53,10 @@
     <a name="Index"></a>
     <img src="https://github.com/Jrbastos18/Technomilho_Solutions/blob/main/img/Index.png" alt="Modelo da página web Index">
     <br><br>
+    <li><h3>Página Sobre Nós</h3></li><br>
+    <a name="SobreNos"></a>
+    <img src="https://github.com/Jrbastos18/Technomilho_Solutions/blob/main/img/Sobre%20n%C3%B3s.png" alt="Modelo da página Sobre Nós">
+    <br><br>
     <li><h3>Página de Login do Funcionario</h3></li><br>
     <a name="LoginFunc"></a>
     <img src="https://github.com/Jrbastos18/Technomilho_Solutions/blob/main/img/Login-Funcionario.png" alt="Modelo da página de login do funcionário">
@@ -62,6 +67,6 @@
     <br><br>
     <li><h3>Página de Formulário de Cadastro do Cliente</h3></li>
     <a name="FormularioCliente"></a>
-    <img src="https://github.com/Jrbastos18/Technomilho_Solutions/blob/main/img/Formul%C3%A1rio%20de%20Cadastro%20do%20Cliente.png?raw=true" alt="Modelo da página de formulário de cadastro do cliente">
+    <img src="https://github.com/Jrbastos18/Technomilho_Solutions/blob/main/img/Formul%C3%A1rio%20de%20Cadastro%20do%20Cliente.png" alt="Modelo da página de formulário de cadastro do cliente">
     
 </ul>
