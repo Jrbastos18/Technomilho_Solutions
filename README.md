@@ -1,4 +1,7 @@
 <h1>TECHNOMILHO SOLUTIONS - PROJETO DA DISCIPLINA DE BANCO DE DADOS [EM PROGRESSO]</h1>
+<a href="https://github.com/Jrbastos18/Technomilho_Solutions/blob/main/LICENSE"><img alt="Static Badge" src="https://img.shields.io/badge/License-Apache%202.0-green"></a> 
+<img alt="Static Badge" src="https://img.shields.io/badge/Status-In_Progress-blue">
+
 
 <h2>Sobre o projeto</h2>
 <p>O projeto foi elaborado na disciplina de Banco de Dados do curso de Análise e Desenvolvimento de Sistemas pela UMC.</p>
