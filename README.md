@@ -11,6 +11,9 @@
   <li><a href="#Logico">Diagrama Entidade-Relacionamento (Lógico)</a></li>
   <li><a href="#Dicionario">Dicionário de Dados</a></li>
   <li><a href="#Fisico">Modelo Físico - Código SQL (MySQL)</a></li>
+    <ul>
+      <li><a href="#DDL">DDL - Data Manipulation Language</a></li>
+    </ul>
   <li><a href="#Design">Design das Páginas:</a></li>
     <ul>
       <li><a href="#Index">Página Index</a></li>
@@ -36,9 +39,12 @@
 
 <h2>Modelo Físico - Código SQL (MySQL)</h2>
 <a name="Fisico"></a>
-<p>*Como o código está muito extenso, irei separar pelas divisões SQL, com alguns exemplos e um link direcionando para o código completo.</p>
+<p>*Como o código está muito extenso, irei separar pelas divisões SQL, com alguns exemplos (prints) e um link direcionando para o código em cada divisão.</p>
 <ul>
-  <li><h3>DDL - Data Definition Language</h3></li>
+  <a name="DDL"></a>
+  <li><h3><a href="https://github.com/Jrbastos18/Technomilho_Solutions/blob/main/src/sql/DDL_Technomilho.sql" target="_blank" >DDL - Data Definition Language</a></h3></li>
+  <img src="https://github.com/Jrbastos18/Technomilho_Solutions/blob/main/img/ddl_technomilho.png" alt="Print do Código DDL - Data Definition Language">
+  <br><br>
   <li><h3>DML - Data Manipulation Language</h3></li>
   <li><h3>DQL - Data Query Language</h3></li>
   <li><h3>DTL - Data Transaction Language</h3></li>
